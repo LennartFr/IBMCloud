@@ -1,4 +1,4 @@
-# IBMCoud
+# IBMCloud
 
 https://www.ibm.com/cloud/
 
